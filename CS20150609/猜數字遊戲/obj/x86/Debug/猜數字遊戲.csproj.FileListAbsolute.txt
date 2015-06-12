@@ -1,0 +1,4 @@
+D:\CS20150609\猜數字遊戲\bin\Debug\猜數字遊戲.exe
+D:\CS20150609\猜數字遊戲\bin\Debug\猜數字遊戲.pdb
+D:\CS20150609\猜數字遊戲\obj\x86\Debug\猜數字遊戲.exe
+D:\CS20150609\猜數字遊戲\obj\x86\Debug\猜數字遊戲.pdb

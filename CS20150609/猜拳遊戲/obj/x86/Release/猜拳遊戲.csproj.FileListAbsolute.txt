@@ -1,0 +1,4 @@
+D:\CS20150609\猜拳遊戲\bin\Release\猜拳遊戲.exe
+D:\CS20150609\猜拳遊戲\bin\Release\猜拳遊戲.pdb
+D:\CS20150609\猜拳遊戲\obj\x86\Release\猜拳遊戲.exe
+D:\CS20150609\猜拳遊戲\obj\x86\Release\猜拳遊戲.pdb
